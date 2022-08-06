@@ -2,3 +2,4 @@ this is a git file and will be initialised
 git init
 git status
 git commit
+moving back to unstage and then stage and then commit
