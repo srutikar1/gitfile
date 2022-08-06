@@ -3,3 +3,4 @@ git init
 git status
 git commit
 moving back to unstage and then stage and then commit
+further modifying from remote repo
