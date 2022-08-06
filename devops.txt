@@ -1,0 +1,4 @@
+this is a git file and will be initialised
+git init
+git status
+git commit
